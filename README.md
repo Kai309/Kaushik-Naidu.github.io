@@ -109,8 +109,73 @@ GPA: 3.65/4
 
 ## Certifications
 
-- **Data Science Specialization in R** - John Hopkins University
-- **IBM Data Science Specialization**
+
+
+**Machine Learning with Python** - IBM Coursera  
+  [View Certificate](https://www.credly.com/badges/57338c3a-dbd2-421c-af3b-62f3837b5cd7/linked_in_profile)
+
+**Data Analysis in Python** - IBM Coursera  
+  [View Certificate](https://www.coursera.org/account/accomplishments/certificate/P2GYKEGPD4GY)
+
+**Python for Data Science, A.I. and Development** - IBM Coursera  
+  [View Certificate](https://www.coursera.org/account/accomplishments/verify/92486VEPSJA7?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course)
+
+**Python Project for Data Science** - IBM Coursera  
+  [View Certificate](https://www.coursera.org/account/accomplishments/certificate/GSJEGBTN4P23)
+
+**Databases and SQL for Data Science with Python** - IBM Coursera  
+  [View Certificate](https://www.coursera.org/account/accomplishments/certificate/Z7K3G7GMS44K)
+
+**Programming for Everybody** - The University of Michigan Coursera  
+  [View Certificate](https://www.coursera.org/account/accomplishments/verify/TD8P7JE4EAZD?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
+
+**Python Data Structures and Algorithms** - The University of Michigan Coursera  
+  [View Certificate](https://www.coursera.org/account/accomplishments/certificate/58XS66JBXLGT)
+
+**3D Model Creation** - Autodesk Coursera  
+  [View Certificate](https://www.coursera.org/account/accomplishments/verify/W6AWBX78BPTW?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
+
+**Fusion 360 CAD/CAM/CAE** - Autodesk Coursera  
+  [View Certificate](https://www.coursera.org/account/accomplishments/verify/Y6UTSA5BUZJ4?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
+
+**The Data Scientist Toolbox** - Johns Hopkins University Coursera  
+  [View Certificate](https://www.coursera.org/account/accomplishments/verify/PF65LA2C598Y)
+
+**R Programming** - Johns Hopkins University Coursera  
+  [View Certificate](https://www.coursera.org/account/accomplishments/certificate/DPE2KMAXUL9R)
+
+**Getting and Cleaning Data** - Johns Hopkins University Coursera  
+  [View Certificate](https://www.coursera.org/account/accomplishments/certificate/HNZPUWCZ3ZDE)
+
+**Exploratory Data Analysis** - Johns Hopkins University Coursera  
+  [View Certificate](https://www.coursera.org/account/accomplishments/certificate/6UY6HH8QAYCX)
+
+**Reproducible Research** - Johns Hopkins University Coursera  
+  [View Certificate](https://www.coursera.org/account/accomplishments/certificate/8SWKPNNAQ884)
+
+**Statistical Inference** - Johns Hopkins University Coursera  
+  [View Certificate](https://www.coursera.org/account/accomplishments/certificate/NV7ZCPJ4ZJ7N)
+
+**Regression Models** - Johns Hopkins University Coursera  
+  [View Certificate](https://www.coursera.org/account/accomplishments/certificate/2Y82ZFBHXVXZ)
+
+**Practical Machine Learning** - Johns Hopkins University Coursera  
+  [View Certificate](https://www.coursera.org/account/accomplishments/certificate/W64R7JCHA5C4)
+
+**Developing Data Products** - Johns Hopkins University Coursera  
+  [View Certificate](https://www.coursera.org/account/accomplishments/certificate/PNNFUN2CL47Q)
+
+**Stock Market Basics** - Udemy  
+  [View Certificate](https://www.udemy.com/certificate/UC-1aa6c2a0-9fe6-4fea-8a82-10f0e34d523f/)
+
+**MATLAB Onramp** - MathWorks  
+  [View Certificate](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=f40ba0fb-9cc1-40e5-8d48-98985be565d9&)
+
+**Collaborative Robot Safety: Design and Development** - The University of Buffalo Coursera  
+  [View Certificate](https://www.coursera.org/account/accomplishments/verify/K68B44BYMRWW?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
+
+**Data Visualization with Python** - IBM Coursera
+
 
 ## Honours and Awards
 
