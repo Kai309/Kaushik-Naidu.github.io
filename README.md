@@ -1,10 +1,3 @@
-# Kaushik Naidu
-
-**Email:** [kn423@cornell.edu](mailto:kn423@cornell.edu)  
-**Location:** Ithaca, NY  
-**LinkedIn:** [Kaushik Naidu](https://www.linkedin.com/in/kaushik-naidu/)  
-**Phone:** +1 (607) 319-9958
-
 ## Education
 
 **Cornell University, Bowers College of Computing and Information Science**  
@@ -19,32 +12,14 @@ Graduated: June 2024
 GPA: 3.65/4
 
 **Selected Coursework:**
-- Probability Models and Inference
-- Linear Models with Matrices
-- Data Mining and Machine Learning in Python
-- Multivariate Analysis
-- Database Management and SAS
-- High-Performance Computing with DBMS
-- Data Structures and Algorithms
-- Python Programming
-- Machine Vision and Image Processing
-- Advanced Data Science in Python and R
+- Probability Models and Inference | Linear Models with Matrices | Data Mining and Machine Learning in Python | Multivariate Analysis | Database Management and SAS | High-Performance Computing with DBMS | Data Structures and Algorithms | Python Programming | Machine Vision and Image Processing | Advanced Data Science in Python and R
+
 
 ## Skills
 
 **Technical:**
-- Python
-- Machine Learning and Deep Learning (CNN, RNN, LSTM, GAN, NLP)
-- MATLAB
-- Statistical Analysis
-- Probability and Statistics
-- Stochastic Mathematical Models
-- Quantitative Research
-- Microsoft Office Suite
-- Fusion 360
-- AutoCAD
-- SolidWorks
-- Ansys
+- Python | Machine Learning and Deep Learning (CNN, RNN, LSTM, GAN, NLP) | MATLAB | Statistical Analysis | Probability and Statistics | Stochastic Mathematical Models | Quantitative Research | Microsoft Office Suite | Fusion 360 | AutoCAD | SolidWorks | Ansys
+
 
 ## Experience
 
@@ -52,16 +27,19 @@ GPA: 3.65/4
 *Jan 2024 – Jun 2024*  
 - Initiated the preliminary steps of developing a product to automate the integration between vendor ERP systems and Amazon to fetch relevant invoice data, contributing to resolving reconciliation payouts of up to $6 million.
 - Led discussions with 20 executives across various divisions and improved data analysis with exception-based reporting tools and KPIs, boosting transaction and payment efficiency between vendors and Amazon by 30%.
+[View Certificate](https://github.com/Kai309/Kaushik-Naidu.github.io/blob/main/Amazon_internship_certificate_page-0001%20(1).jpg)
 
 **Kennametal, Data Science Intern**  
 *Dec 2022 – Nov 2023*  
 - Analyzed communication protocols among machines, implementing OPC UA standards that increased data transfer accuracy by 40%.
 - Developed a comprehensive data analysis framework for machine operations that identified critical bottlenecks, improving overall operational efficiency.
+[View Certificate](https://github.com/Kai309/Kaushik-Naidu.github.io/blob/main/WhatsApp%20Image%202024-09-06%20at%2001.36.06.jpeg)
 
 **Formula Manipal, Aerodynamics & Composites Engineer**  
 *Dec 2020 – Aug 2022*  
 - Researched and started the initial development stages of manufacturing a CF monocoque by performing 3-point bend tests and perimeter shear stress simulations on ANSYS to understand the failure of CF panels under different loads.
 - Worked on validating the aerodynamics package and researched methods of testing the car to correlate CFD and simulation data with real-life conditions.
+[View Certificate](https://github.com/Kai309/Kaushik-Naidu.github.io/blob/main/Kaushik_Naidu_Cert_FM_page-0001.jpg)
 
 ## Academic Experience
 
@@ -184,19 +162,21 @@ GPA: 3.65/4
 - Participated in an international project with students from various international schools.
 - Earned the excellence certificate for a distinguished project.
 - Selected for a student exchange program with a school in the Netherlands.
+[View Certificate](https://github.com/Kai309/Kaushik-Naidu.github.io/blob/main/eumind.jpeg)
 
 **MIT Ideation Competition**
 ***Certificate of Excellence in Reduce, Reuse, and Recycling Plastics (2021)***
 - Member of a startup-based project focused on recycling Covid plastic waste.
 - Developed methods to convert disposed masks into fine particles.
 - Integrated these particles with sand/cement to produce construction bricks and tiles with high-stress resistance.
-  [![View Certificate](https://github.com/Kai309/Kaushik-Naidu.github.io/raw/main/1633780182072.jpeg)](https://github.com/Kai309/Kaushik-Naidu.github.io/raw/main/1633780182072.jpeg)
+  [View Certificate](https://github.com/Kai309/Kaushik-Naidu.github.io/raw/main/1633780182072.jpeg)
+
 
 
 **Trinity Guildhall London, UK**
 ***Electronic Keyboard***
 - Completed five grades in electronic keyboard performance.
-
+[View Certificate](https://github.com/Kai309/Kaushik-Naidu.github.io/blob/main/trinity%205.jpeg)
 ---
 
 Feel free to reach out if you have any questions or would like to connect!
