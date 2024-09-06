@@ -190,6 +190,8 @@ GPA: 3.65/4
 - Member of a startup-based project focused on recycling Covid plastic waste.
 - Developed methods to convert disposed masks into fine particles.
 - Integrated these particles with sand/cement to produce construction bricks and tiles with high-stress resistance.
+  [![View Certificate](https://github.com/Kai309/Kaushik-Naidu.github.io/raw/main/1633780182072.jpeg)](https://github.com/Kai309/Kaushik-Naidu.github.io/raw/main/1633780182072.jpeg)
+
 
 **Trinity Guildhall London, UK**
 ***Electronic Keyboard***
