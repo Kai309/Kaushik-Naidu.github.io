@@ -1,7 +1,7 @@
 ## Education
 
 **Cornell University, Bowers College of Computing and Information Science**  
-*M.S. in Applied Statistics and Data Science*  
+*Masters in Applied Statistics and Data Science*  
 Ithaca, NY  
 Expected: May 2025
 
