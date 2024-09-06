@@ -12,13 +12,17 @@ Graduated: June 2024
 GPA: 3.65/4
 
 **Selected Coursework:**
-- Probability Models and Inference | Linear Models with Matrices | Data Mining and Machine Learning in Python | Multivariate Analysis | Database Management and SAS | High-Performance Computing with DBMS | Data Structures and Algorithms | Python Programming | Machine Vision and Image Processing | Advanced Data Science in Python and R
+- Probability Models and Inference | Linear Models with Matrices | Data Mining and Machine Learning in Python
+- Multivariate Analysis | Database Management and SAS | High-Performance Computing with DBMS
+- Data Structures and Algorithms | Python Programming | Machine Vision and Image Processing | Advanced Data Science in Python and R
 
 
 ## Skills
 
 **Technical:**
-- Python | Machine Learning and Deep Learning (CNN, RNN, LSTM, GAN, NLP) | MATLAB | Statistical Analysis | Probability and Statistics | Stochastic Mathematical Models | Quantitative Research | Microsoft Office Suite | Fusion 360 | AutoCAD | SolidWorks | Ansys
+- Python | Machine Learning and Deep Learning (CNN, RNN, LSTM, GAN, NLP) | MATLAB
+- Statistical Analysis | Probability and Statistics | Stochastic Mathematical Models | Quantitative Research
+- Microsoft Office Suite | Fusion 360 | AutoCAD | SolidWorks | Ansys
 
 
 ## Experience
@@ -50,6 +54,8 @@ GPA: 3.65/4
 **Undergraduate Teaching Assistant, Manipal Institute of Technology**  
 *Feb 2022 – Jun 2022*  
 - Provided teaching assistance to 90 undergraduates in CAD and Kinematics Lab.
+[View Certificate](https://github.com/Kai309/Kaushik-Naidu.github.io/blob/main/lab%20assistant.jpeg)
+
 
 ## Relevant Academic Projects
 
