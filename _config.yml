@@ -1,5 +1,9 @@
 title: Kaushik Naidu
 logo: /headshots/IMG_6530-photoaidcom-cropped.PNG
-#description: Email: kn423@cornell.edu, Location: Ithaca, NY, LinkedIn: Kaushik Naidu, Phone: +1 (607) 319-9958
+description: >
+  Email: kn423@cornell.edu<br>
+  Location: Ithaca, NY<br>
+  LinkedIn: <a href="https://www.linkedin.com/in/kaushik-naidu" target="_blank">Kaushik Naidu</a><br>
+  Phone: +1 (607) 319-9958
 show_downloads: true
 theme: jekyll-theme-minimal
