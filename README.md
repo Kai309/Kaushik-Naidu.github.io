@@ -115,13 +115,13 @@ GPA: 3.65/4
 ## Honours and Awards
 
 **EUmIND Mumbai, IND**
-***Certificate of Excellence** (2017-2018)***
+***Certificate of Excellence (2017-2018)***
 - Participated in an international project with students from various international schools.
 - Earned the excellence certificate for a distinguished project.
 - Selected for a student exchange program with a school in the Netherlands.
 
 **MIT Ideation Competition**
-**Certificate of Excellence in Reduce, Reuse, and Recycling Plastics (2021)***
+***Certificate of Excellence in Reduce, Reuse, and Recycling Plastics (2021)***
 - Member of a startup-based project focused on recycling Covid plastic waste.
 - Developed methods to convert disposed masks into fine particles.
 - Integrated these particles with sand/cement to produce construction bricks and tiles with high-stress resistance.
