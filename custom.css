@@ -1,0 +1,8 @@
+/* custom.css */
+
+/* Style for logo image */
+.logo {
+  width: 75%; /* Resize logo to 75% of its original size */
+  height: auto; /* Maintain aspect ratio */
+  max-width: 200px; /* Optional: set a maximum width if needed */
+}
