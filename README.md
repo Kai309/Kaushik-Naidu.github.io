@@ -12,17 +12,17 @@ Graduated: June 2024
 GPA: 3.65/4
 
 **Selected Coursework:**
-- Probability Models and Inference | Linear Models with Matrices | Data Mining and Machine Learning in Python
-- Multivariate Analysis | Database Management and SAS | High-Performance Computing with DBMS
-- Data Structures and Algorithms | Python Programming | Machine Vision and Image Processing | Advanced Data Science in Python and R
+- Probability Models and Inference || Linear Models with Matrices || Data Mining and Machine Learning in Python
+- Multivariate Analysis|| Database Management and SAS || High-Performance Computing with DBMS
+- Data Structures and Algorithms || Python Programming || Machine Vision and Image Processing || Advanced Data Science in Python and R
 
 
 ## Skills
 
 **Technical:**
-- Python | Machine Learning and Deep Learning (CNN, RNN, LSTM, GAN, NLP) | MATLAB
-- Statistical Analysis | Probability and Statistics | Stochastic Mathematical Models | Quantitative Research
-- Microsoft Office Suite | Fusion 360 | AutoCAD | SolidWorks | Ansys
+- Python || Machine Learning and Deep Learning (CNN, RNN, LSTM, GAN, NLP) || MATLAB
+- Statistical Analysis || Probability and Statistics || Stochastic Mathematical Models || Quantitative Research
+- Microsoft Office Suite || Fusion 360 || AutoCAD || SolidWorks || Ansys
 
 
 ## Experience
