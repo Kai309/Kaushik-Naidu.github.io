@@ -58,6 +58,7 @@ GPA: 3.65/4
 
 
 ## Relevant Academic Projects
+[Data Science GitHub Repository](https://github.com/Kai309/DataScience)
 
 **Algorithmic Trading Strategy Development Using Mean Reversion**
   - Developed a trading strategy based on the mean reversion theory, which assumes that asset prices will revert to their historical average over time.
@@ -90,11 +91,7 @@ GPA: 3.65/4
 
 
 
-
 ## Certifications
-
-
-
 **Machine Learning with Python** - IBM Coursera  
   [View Certificate](https://www.credly.com/badges/57338c3a-dbd2-421c-af3b-62f3837b5cd7/linked_in_profile)
 
@@ -157,7 +154,6 @@ GPA: 3.65/4
 
 **Collaborative Robot Safety: Design and Development** - The University of Buffalo Coursera  
   [View Certificate](https://www.coursera.org/account/accomplishments/verify/K68B44BYMRWW?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
-
 **Data Visualization with Python** - IBM Coursera
 
 
@@ -177,12 +173,7 @@ GPA: 3.65/4
 - Integrated these particles with sand/cement to produce construction bricks and tiles with high-stress resistance.
   [View Certificate](https://github.com/Kai309/Kaushik-Naidu.github.io/raw/main/1633780182072.jpeg)
 
-
-
 **Trinity Guildhall London, UK**
 ***Electronic Keyboard***
 - Completed five grades in electronic keyboard performance.
 [View Certificate](https://github.com/Kai309/Kaushik-Naidu.github.io/blob/main/trinity%205.jpeg)
----
-
-Feel free to reach out if you have any questions or would like to connect!
