@@ -67,6 +67,7 @@ GPA: 3.65/4
 **Flood Susceptibility Mapping**
   - Created a flood susceptibility map to identify areas at high risk of flooding using geospatial data and machine learning techniques.
   - Analyzed various environmental factors and historical flood data to improve the accuracy of susceptibility predictions.
+  [Flood Susceptibility Mapping Github](https://github.com/Kai309/Flood-Susceptibility-Mapping)
 
 **Real-Time License Plate Recognition**
   - Designed and implemented a real-time license plate recognition system using computer vision and deep learning techniques.
