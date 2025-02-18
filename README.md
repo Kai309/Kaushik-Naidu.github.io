@@ -65,6 +65,7 @@ GPA: 3.65/4
   - Implemented the strategy using historical market data and backtested its effectiveness to optimize trading decisions.
 
 **Flood Susceptibility Mapping**
+[View Certificate](https://github.com/Kai309/Kaushik-Naidu.github.io/blob/main/Paper%20ID_74_ours%20(1).pdf)
   - Created a flood susceptibility map to identify areas at high risk of flooding using geospatial data and machine learning techniques.
   - Analyzed various environmental factors and historical flood data to improve the accuracy of susceptibility predictions.
   [Flood Susceptibility Mapping Github](https://github.com/Kai309/Flood-Susceptibility-Mapping)
