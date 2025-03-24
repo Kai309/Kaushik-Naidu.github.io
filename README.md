@@ -27,6 +27,13 @@ GPA: 3.65/4
 
 ## Experience
 
+**Gravity Investments, Data Science Consultant *  
+*Jan 2025 – May 2025*  
+- Enhanced deep learning constraints in stock forecasting (Temporal Fusion Transformer) to improve accuracy.
+- Built AI-driven financial models using Python, PyTorch, and AWS SageMaker.
+- Improved prediction stability and generated actionable financial insights.
+
+
 **Amazon, Product/Program Manager Intern**  
 *Jan 2024 – Jun 2024*  
 - Initiated the preliminary steps of developing a product to automate the integration between vendor ERP systems and Amazon to fetch relevant invoice data, contributing to resolving reconciliation payouts of up to $6 million.
@@ -58,6 +65,14 @@ GPA: 3.65/4
 
 
 ## Relevant Academic Projects
+
+### [AI-Powered Quantitative Stock Trading System](https://ai-quant-trading-system.onrender.com/)
+- Built a full-stack AI trading platform for personalized buy/sell signals.
+- Incorporated Momentum, Mean Reversion, and GARCH models.
+- Integrated Tiingo API for real-time stock data.
+- Visualized trading signals using Flask + Chart.js web dashboard.
+
+
 [Data Science GitHub Repository](https://github.com/Kai309/DataScience)
 
 **Algorithmic Trading Strategy Development Using Mean Reversion**
