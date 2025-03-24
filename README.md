@@ -27,7 +27,7 @@ GPA: 3.65/4
 
 ## Experience
 
-**Gravity Investments, Data Science Consultant *  
+**Gravity Investments, Data Science Consultant **
 *Jan 2025 – May 2025*  
 - Enhanced deep learning constraints in stock forecasting (Temporal Fusion Transformer) to improve accuracy.
 - Built AI-driven financial models using Python, PyTorch, and AWS SageMaker.
